@@ -5,12 +5,22 @@ const App = () => {
   let age = 24
 
   return (
-    name
+    // name
     // <div>
     //   <h1>My App</h1>
     //   <h2>React</h2>
     // </div>
-    
+
+    <>
+      <div id="one">
+        
+      </div>
+
+      <div id='two'>
+
+      </div>
+    </>
+
   )
 }
 
