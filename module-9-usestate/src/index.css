@@ -1,0 +1,17 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+
+button{
+    padding: 10px 20px;
+    margin: 20px;
+}
+
+h1{
+    background-color: rgba(220, 220, 220, 0.679);
+    width: fit-content;
+    font-size: 80px;
+    padding: 10px 40px;
+    margin: 70px;
+}
